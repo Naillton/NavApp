@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Second Fragment Testing Fragment</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="fragment_one">Hello Home Fragment, First Screen App</string>
+</resources>
